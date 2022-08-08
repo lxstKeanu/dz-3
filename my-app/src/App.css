@@ -1,0 +1,43 @@
+.Main__Filters{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  border-radius: 6px;
+  padding: 16px;
+  width: 200px;
+  margin: 16px;
+}
+.Main__Cards{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  border-radius: 6px;
+  padding: 16px;
+  width: 360px;
+  margin: 16px;
+}
+.Main__h1{
+  color: blue;
+  align-self: center;
+  font-size: 25px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+.Main__h2{
+  color: orange;
+}
+.Main__isSpecial{
+  color: red
+}
+.Main__Date{
+  color: blueviolet;
+}
+.Main__Categories{
+  color: brown
+}
+.Main__Button__Filters{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px;
+}
